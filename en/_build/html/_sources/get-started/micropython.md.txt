@@ -1,3 +1,0 @@
-# Micropython
-
-Coming soon
